@@ -1,3 +1,3 @@
 # vectorel_dersleri
-Commit deneme
+Commit deneme \n
 Mesaj alma 
