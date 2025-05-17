@@ -24,7 +24,7 @@ for ddd in range(10):
     aa=r.randint(-300,300)
     ss=r.randint(-300,300)
     penup()
-    goto(aa,ss)
+    goto(aa,ss) 
     pendown()
     ks=r.randint(3,5)
     for a in range(ks):
