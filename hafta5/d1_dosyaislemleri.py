@@ -1,0 +1,1 @@
+open("deneme.txt","w") #dosya adı ve acma modu 
